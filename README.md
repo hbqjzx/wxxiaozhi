@@ -52,6 +52,9 @@ cd wxxiaozhi/
 ```bash
 cp config-template.json config.json
 ```
+```
+知数云API定制 config.json 可联系WX:mytimerun 
+```
 
 每一个模型和应用都有自己的配置块，最终组成完整的配置文件，整体结构如下：
 
