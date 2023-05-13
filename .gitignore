@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+__pycache__/
+venv*
+*.pyc
+QR.png
+data/
+device.json
+go-cqhttp
+logs/
+session.token
+.vscode
+itchat.pkl
