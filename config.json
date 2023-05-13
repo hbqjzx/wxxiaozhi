@@ -8,7 +8,7 @@
     }
   },
   "channel": {
-    "type": ["wechat_mp"],
+    "type": ["wechat"],
     "wechat_mp": {
       "token": "wechattoken",
       "port": "80"
